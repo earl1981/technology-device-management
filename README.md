@@ -1,7 +1,7 @@
 # Technology and Device Management System
 
 **C++ Final Project**  
-**Prepared by:** Basilio and Earl Jaycon Arellano  
+**Prepared by:**  Earl Jaycon Arellano  
 **Course:** BSIT
 
 ## Project Description
