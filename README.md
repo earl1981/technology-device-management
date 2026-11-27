@@ -1,4 +1,4 @@
-# Technology and Device Management System
+# Technology and Device Management
 
 **C++ Final Project**  
 **Prepared by:**  Earl Jaycon Arellano  
